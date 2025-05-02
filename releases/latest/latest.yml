@@ -1,9 +1,9 @@
-version: 1.0.10
+version: 1.0.11
 files:
-  - url: ScopeWise 1.0.10.exe
-    sha512: 5b3206a304a33ad2cce2f9fd02c3ef02aa65af5b679630aad6f2fbb2a7bb37f521860bcdea4e0fa475aaf1d298cef6086a23fcd4463b81074c8b057190411a47
-    size: 75881898
-    path: ScopeWise 1.0.10.exe
-path: ScopeWise 1.0.10.exe
-sha512: 5b3206a304a33ad2cce2f9fd02c3ef02aa65af5b679630aad6f2fbb2a7bb37f521860bcdea4e0fa475aaf1d298cef6086a23fcd4463b81074c8b057190411a47
-releaseDate: 2025-05-02T20:04:40Z
+  - url: ScopeWise 1.0.11.exe
+    sha512: c16ba884672125435102d2fb37d14bb6c998d4d27b56aab5edd77a5cf51c38ce36ba9b9d7064d02acbecc1422c73e6abf688cfb50588a6517adb465a2f92a971
+    size: 75881942
+    path: ScopeWise 1.0.11.exe
+path: ScopeWise 1.0.11.exe
+sha512: c16ba884672125435102d2fb37d14bb6c998d4d27b56aab5edd77a5cf51c38ce36ba9b9d7064d02acbecc1422c73e6abf688cfb50588a6517adb465a2f92a971
+releaseDate: 2025-05-02T20:48:22Z

@@ -1,0 +1,9 @@
+version: 1.0.11
+files:
+  - url: ScopeWise-1.0.11-arm64.dmg
+    sha512: 28f99fc052170e4eeedd1f7744ac14645d5836538e137af6a0c2665035e30fdad5b4e188812af494ac83689a1486b73fb11dd8be319ecb015a9ad0951a7ad59d
+    size: 94695292
+    path: ScopeWise-1.0.11-arm64.dmg
+path: ScopeWise-1.0.11-arm64.dmg
+sha512: 28f99fc052170e4eeedd1f7744ac14645d5836538e137af6a0c2665035e30fdad5b4e188812af494ac83689a1486b73fb11dd8be319ecb015a9ad0951a7ad59d
+releaseDate: 2025-05-02T20:47:18Z
